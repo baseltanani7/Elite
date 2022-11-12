@@ -1,4 +1,5 @@
-# Elite
+# Elite Academy
+An educational site that presents special investment services, available packages, available courses, prices for courses, experiences and fields.
 
 ![home page](https://user-images.githubusercontent.com/117764506/201207553-1d135e2a-19a2-41be-8ce2-afb945ede228.png)
 
